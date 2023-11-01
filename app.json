@@ -1,0 +1,8 @@
+{
+  "name": "GallopRacerChallenge",
+  "displayName": "GallopRacerChallenge",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "key",
+    "delay_app_measurement_init": true
+  }
+}
